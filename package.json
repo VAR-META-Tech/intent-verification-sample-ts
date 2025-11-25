@@ -1,5 +1,5 @@
 {
-  "name": "intent-verification-ts",
+  "name": "intent-verification-sample-ts",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
